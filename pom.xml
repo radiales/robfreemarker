@@ -10,9 +10,21 @@
 
     <dependencies>
 
-        <groupId>org.freemarker</groupId>
-        <artifactId>freemarker</artifactId>
-        <version>2.3.29</version>
+        <dependency>
+
+            <groupId>org.freemarker</groupId>
+            <artifactId>freemarker</artifactId>
+            <version>2.3.29</version>
+
+        </dependency>
+
+        <dependency>
+
+            <groupId>org.yaml</groupId>
+            <artifactId>snakeyaml</artifactId>
+            <version>1.25</version>
+
+        </dependency>
 
     </dependencies>
 
