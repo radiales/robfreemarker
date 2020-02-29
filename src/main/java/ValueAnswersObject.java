@@ -4,8 +4,10 @@ public class ValueAnswersObject {
     private String  answer;
     private String  category;
 
+    public ValueAnswersObject(){};
 
-    public ValueAnswersObject(String q, String a, String c){                                                            //Standard Konstruktor, Die Strings müssen Simple Strings sein für die Tabelle
+
+    public ValueAnswersObject(String q, String a, String c){
         this.question   = new String(q);
         this.answer     = new String(a);
         this.category   = new String(c);
