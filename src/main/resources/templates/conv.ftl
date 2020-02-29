@@ -1,6 +1,6 @@
 <html>
 <head>
-    <title>radiales example</title>
+    <title>Quiz</title>
 </head>
 <style>
     html, body {
